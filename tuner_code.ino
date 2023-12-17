@@ -28,7 +28,7 @@ const int COMMON_ANODE   = 2;
 //
 // SET YOUR DISPLAY TYPE HERE
 //
-const int LED_DISPLAY_TYPE = COMMON_ANODE;
+const int LED_DISPLAY_TYPE = COMMON_CATHODE;
 
 // Uncomment the following #define if you want to check the 7-segment display
 // 3 signalling LEDs and clipping LED continuously for testing purposes.
