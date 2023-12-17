@@ -15,6 +15,10 @@
 // cathode LED-display.
 // Set the const LED_DISPLAY_TYPE to the type of LED display you use (COMMON_ANODE or COMMON_CATHODE).
 
+// 17 Dec 2023: safer57
+// Set default led display default to COMMON_CATHODE
+// Fix segments display showing B# instead of A#
+
 /*
    This program is free software; you can redistribute it and/or modify
    it under the terms of the GNU General Public License as published by
